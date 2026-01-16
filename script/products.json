@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "fresh orange",
+        "price": 4.99,
+        "image": "img/product-1.png"
+    },
+     {
+        "id": 2,
+        "name": "fresh onion",
+        "price": 2.5,
+        "image": "img/product-2.png"
+    },
+     {
+        "id": 3,
+        "name": "fresh avocado",
+        "price": 6.99,
+        "image": "img/product-3.png"
+    },
+     {
+        "id": 4,
+        "name": "fresh cabbage",
+        "price": 10,
+        "image": "img/product-4.png"
+    },
+     {
+        "id": 5,
+        "name": "fresh potato",
+        "price": 2.99,
+        "image": "img/product-5.png"
+    },
+     {
+        "id": 6,
+        "name": "fresh meat",
+        "price": 15.99,
+        "image": "img/product-6.png"
+    },
+     {
+        "id": 7,
+        "name": "fresh carrot",
+        "price": 1.99,
+        "image": "img/product-7.png"
+    },
+     {
+        "id": 8,
+        "name": "green lemon",
+        "price": 1.99,
+        "image": "img/product-8.png"
+    }
+]
